@@ -26,8 +26,8 @@ https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
 
 ### Built with
 
-## Semantic HTML5 makrup
-## CSS
+* Semantic HTML5 makrup
+* CSS
 
 ## Version History
 
